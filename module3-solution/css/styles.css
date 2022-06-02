@@ -1,7 +1,9 @@
-#bs-example-navbar-collapse-1 {
-    background-color: azure;
+.navbar-static-top {
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
 }
+
 .main-content {
     background-color:lightcyan;
-    width: 100%;
 }
